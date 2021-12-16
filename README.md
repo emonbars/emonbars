@@ -40,4 +40,4 @@ Hi, I'm [Eduardo Montoya](https://emonbars.com), a Back end Developer from QuerÃ
 
 ğŸ“ˆ My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=emonbars&show_icons=true&theme=gotham" alt="emonbars" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=emonbars&show_icons=true&theme=swift" alt="emonbars" />
